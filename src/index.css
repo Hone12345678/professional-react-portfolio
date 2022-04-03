@@ -11,3 +11,119 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+body {
+
+background-image: url("../src/assets/background/Texture.JPG");
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+.my-5{
+ color: hsl(205, 100%, 9%);
+}
+
+.my-2{
+  margin-top: 5%;
+  margin-left: 10%;
+  margin-inline-end: 10%;
+
+}
+
+.portfolioCard{
+  margin-top: 5%;
+  margin-left: 12%;
+  margin-inline-end: 10%;
+  color: #000;
+}
+.card{
+  background-color: #E6E8E6;
+}
+
+p{
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 2%;
+}
+
+.navTabs{
+  padding-left: 10%;
+  padding-top: 1%;
+  padding-bottom: 3%;
+}
+
+
+h1{
+  margin-left: 10%;
+  color: #D64933;
+  padding-bottom: 7%;
+ 
+}
+
+h2{
+ color: #E6E8E6;
+ padding-left: 10%;
+ padding-top: 2%;
+ padding-bottom: 1%;
+}
+
+span{
+  color: #E6E8E6;
+}
+
+header{
+  background-color: hsl(205, 100%, 9%);
+  margin-Right: 30%;
+ 
+ 
+}
+
+.table {
+	display: table;   /* Allow the centering to work */
+	margin: 0 auto;
+}
+
+form {
+  padding-left: 40%;
+  
+
+}
+
+#email{
+  margin-top: 2%;
+}
+
+#name{
+  padding-left: 7%;
+  margin-top: 2%;
+}
+
+#message{
+  padding-left: 4.5%;
+  margin-top: 2%;
+}
+
+#formSubButton{
+  
+    margin-left: 15%;
+    margin-top: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+
+  
+}
+
+
+li {
+  display:inline;
+  padding: 50px;
+}
+
+#footer {
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:2em;
+}
+
