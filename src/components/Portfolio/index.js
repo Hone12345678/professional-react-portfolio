@@ -13,7 +13,7 @@ function Portfolio() {
   return (
     <section className="my-5">
     <h1 id="about">Portfolio</h1>
-    <p>Have a look at some of my past project! Feel free to test them out or have a look at their repo on GitHub!</p>
+    <p>Have a look at some of my past projects! Feel free to test them out or have a look at their repo on GitHub!</p>
 
     <CardGroup>
   <Card>
@@ -68,11 +68,10 @@ function Portfolio() {
     <Card.Body>
       <Card.Title>Budget Tracker</Card.Title>
       <Card.Text>
-        This is a wider card with supporting text below as a natural lead-in to
-        additional content. This content is a little bit longer.
+      Track Your Budget allows a user to keep track of day to day transaction. As an added bonus it's a PWA!
       </Card.Text>
-      <Card.Link href="https://troubleshot.herokuapp.com/login">Check it out!</Card.Link>
-      <Card.Link href="https://github.com/Hone12345678/Troubleshot" class="fa fa-github"></Card.Link>
+      <Card.Link href="https://track-your-budget2022.herokuapp.com/">Check it out!</Card.Link>
+      <Card.Link href="https://github.com/Hone12345678/Track-Your-Budget" class="fa fa-github"></Card.Link>
     </Card.Body>
     <Card.Footer>
       <small className="text-muted">2022</small>
@@ -83,11 +82,10 @@ function Portfolio() {
     <Card.Body>
       <Card.Title>Card title</Card.Title>
       <Card.Text>
-        This card has supporting text below as a natural lead-in to additional
-        content.{' '}
+        Work Day Schedular is a simple application that is designed to track your scehdules and deadlines throughout the workday.
       </Card.Text>
-      <Card.Link href="https://troubleshot.herokuapp.com/login">Check it out!</Card.Link>
-      <Card.Link href="https://github.com/Hone12345678/Troubleshot" class="fa fa-github"></Card.Link>
+      <Card.Link href="https://hone12345678.github.io/work-day-scheduler/">Check it out!</Card.Link>
+      <Card.Link href="https://github.com/Hone12345678/work-day-scheduler" class="fa fa-github"></Card.Link>
     </Card.Body>
     <Card.Footer>
       <small className="text-muted">2022</small>
@@ -98,12 +96,10 @@ function Portfolio() {
     <Card.Body>
       <Card.Title>Card title</Card.Title>
       <Card.Text>
-        This is a wider card with supporting text below as a natural lead-in to
-        additional content. This card has even longer content than the first to
-        show that equal height action.
+       Take notes is a simple application that allows you to create and keep track of simple notes.
       </Card.Text>
-      <Card.Link href="https://troubleshot.herokuapp.com/login">Check it out!</Card.Link>
-      <Card.Link href="https://github.com/Hone12345678/Troubleshot" class="fa fa-github"></Card.Link>
+      <Card.Link href="https://take-notes2022.herokuapp.com/notes">Check it out!</Card.Link>
+      <Card.Link href="https://github.com/Hone12345678/Take-Notes" class="fa fa-github"></Card.Link>
     </Card.Body>
     <Card.Footer>
       <small className="text-muted">2022</small>
